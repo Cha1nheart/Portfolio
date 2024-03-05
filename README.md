@@ -15,7 +15,7 @@
 - Тестовая документация.
 
 ### Примеры:
-- [Тест-кейсов](https://docs.google.com/spreadsheets/d/1m-FfTs1CbZjRiiNjYMUPd6E1XK4rIROOy3WCDfl1k9c/edit?usp=sharing).
+- [Тест-кейсов](https://docs.google.com/spreadsheets/d/1RIBcYE6muRw_B-EaPy-H8baWHOpXR41MCtHct6D99BA/edit?usp=sharing).
 - [Баг-репортов](https://docs.google.com/spreadsheets/d/1jibrDhBKAkD600OtKoWuthx-uUutfjZsbptTGe09QeY/edit?usp=sharing).
 
 ## Java для тестировщиков.
